@@ -1,0 +1,7 @@
+name: blast-nf
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - blast
